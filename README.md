@@ -41,17 +41,14 @@ object **SEU NOME** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizFelipeKraus&show_icons=true&theme=dracula&line_height=27" alt="**Luiz Felipe Kruas** github stats"/>
 </a>
 
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+[GitHubEmpresa]: [https://codedev.ga/](https://github.com/LuizFelipeAlfa/)
+[instagram]: https://www.instagram.com/luizfelipekraus/
+[linkedin]: linkedin.com/in/luiz-felipe-kraus-a4a2a0211
 <br>
 
 #### Rede Sociais!
 
 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
+🐦 [GitHubEmpresa][GitHubEmpresa] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
