@@ -49,6 +49,6 @@ object **SEU NOME** {
 #### Rede Sociais!
 
 
-🐦 [GitHubEmpresa][github] **|** 
+🐦 [github][github] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
