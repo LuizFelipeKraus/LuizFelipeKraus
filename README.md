@@ -41,7 +41,7 @@ object **SEU NOME** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizFelipeKraus&show_icons=true&theme=dracula&line_height=27" alt="**Luiz Felipe Kruas** github stats"/>
 </a>
 
-[GitHubEmpresa]: [https://codedev.ga/](https://github.com/LuizFelipeAlfa/)
+[GitHubEmpresa]: https://codedev.ga/](https://github.com/LuizFelipeAlfa/
 [instagram]: https://www.instagram.com/luizfelipekraus/
 [linkedin]: linkedin.com/in/luiz-felipe-kraus-a4a2a0211
 <br>
@@ -49,6 +49,6 @@ object **SEU NOME** {
 #### Rede Sociais!
 
 
-🐦 [GitHubEmpresa][GitHubEmpresa] **|** 
+🐦 [GitHubEmpresa][github] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
