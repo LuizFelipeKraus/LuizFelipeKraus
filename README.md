@@ -33,11 +33,11 @@ object **SEU NOME** {
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+<a href="https://github.com/LuizFelipeKraus">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizFelipeKraus&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/LuizFelipeKraus">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizFelipeKraus&show_icons=true&theme=dracula&line_height=27" alt="**Luiz Felipe Kruas** github stats"/>
 </a>
 
