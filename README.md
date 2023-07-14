@@ -49,6 +49,7 @@ object **LUIZ FELIPE** {
 #### Rede Sociais!
 
 
-🐦 [github][GitHubEmpresa] **|** 
+🐦 [github][[GitHubEmpresa](https://github.com/LuizFelipeAlfa)] **|** 
 📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+👔 [linkedin][www.linkedin.com/in/luiz-felipe-kraus]
+
